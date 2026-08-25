@@ -1,4 +1,4 @@
-# University Management System
+# UniTrack — University Management & Result System
 
 A simple and practical **University Result Management System** built with PHP and MySQL. The system provides an organized platform for managing students, classes, subjects, academic results, and university notices through an administrator dashboard.
 
