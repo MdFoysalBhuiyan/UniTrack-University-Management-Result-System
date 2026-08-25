@@ -8,7 +8,6 @@ include('includes/config.php');
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="University Result Management System" />
-        <meta name="author" content="Surana College Autonomous" />
         <title>University Result Management System</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -602,7 +601,7 @@ include('includes/config.php');
             <div class="container">
                 <a class="navbar-brand d-flex align-items-center" href="index.php">
                     <img src="images/logo.png" alt="Logo" style="height: 32px; margin-right: 12px;">
-                    Surana College
+                    Fight Club University Dhaka
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -779,7 +778,7 @@ include('includes/config.php');
             <div class="container">
                 <div class="footer-brand">
                     <img src="images/logo.png" alt="Logo" style="height: 28px;">
-                    Surana College Autonomous ( Bengaluru )
+                    Fight Club University
                 </div>
                 <p class="footer-text m-0">&copy; <?php echo date("Y"); ?> Student Result Management System. All rights reserved.</p>
             </div>
